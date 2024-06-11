@@ -1,3 +1,4 @@
+![logo](https://github.com/Kommagayathri/kommagayathri/blob/main/Black%20and%20White%20Simple%20Minimalist%20Futuristic%20Gaming%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Gayathri Komma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src= "https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
